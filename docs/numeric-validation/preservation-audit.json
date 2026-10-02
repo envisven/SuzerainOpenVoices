@@ -1,0 +1,11 @@
+{
+  "changed_original_files": [
+    "README.md",
+    "src/sordland/ui/VariableAnalysisView.java",
+    "src/sordland/analysis/VariableAnalyzer.java",
+    "src/sordland/analysis/VariableIndex.java",
+    "tests/sordland/AllTests.java"
+  ],
+  "all_supplied_data_unchanged": true,
+  "picker_unchanged": true
+}

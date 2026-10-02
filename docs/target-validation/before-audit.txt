@@ -1,0 +1,2 @@
+BaseGame.AMorgnaWesCore writes=20 nodes=5914 segments=3353 requiredCells=427 choices=20 refs=3353
+BaseGame.Economy writes=219 nodes=17616 segments=9201 requiredCells=3320 choices=120 refs=9201

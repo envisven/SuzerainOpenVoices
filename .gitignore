@@ -1,0 +1,11 @@
+build/
+out/
+dist/
+*.class
+.DS_Store
+.idea/workspace.xml
+.idea/shelf/
+data/*.json
+data/**/*.json
+data/runtime/
+*.log
